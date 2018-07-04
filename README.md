@@ -1,6 +1,6 @@
 # My Portfolio
 
-This is my personal portfolio.Still a work in progress in one.
+This is my personal portfolio.Still a work in progress one.
 
 # Link to Website
 
